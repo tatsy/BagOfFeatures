@@ -8,7 +8,7 @@ Bag of Features
     
 1. Copyright
     The copyright of this code belongs to 'tatsy'. Anyway, you can use this project
-    for any purposes (please note that only the part of my code. opencv and libsvm may not).
+    for any purposes (please note that I can admit it only for my code. opencv and libsvm may not).
     If you are satisfied with the program, please follow my github account, https://github.com/tatsy/
     
     Thanks!
